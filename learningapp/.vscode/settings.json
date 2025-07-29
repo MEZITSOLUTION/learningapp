@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0adca638-b501-4959-bb02-eedd99b7cd52/resourceGroups/rg-webapp-test-uks/providers/Microsoft.Web/sites/az204web2507",
+    "appService.deploySubpath": "bin\\Publish"
+}
